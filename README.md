@@ -1,2 +1,3 @@
 # Keeper-App-Using-React
-Created with CodeSandbox
+This is a clone of Google Keep App which is being made using React.
+
