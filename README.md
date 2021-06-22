@@ -39,6 +39,7 @@ I've developed only the front-end part of the website. So, once you refresh the 
 
   - Uses *Outlined* Icon design
 <br />
+
 ## ⚙️ Requirements
 
 <ul>
@@ -47,6 +48,7 @@ I've developed only the front-end part of the website. So, once you refresh the 
   <li><a href="https://www.npmjs.com/">NPM</a></li>
 </ul>
 <br />
+
 ## 💻 Development
 
 This project was developed using CodeSandbox. 
@@ -80,13 +82,14 @@ node src/index.js or npm start
 
 * Now you are all set to use this project.
 <br />
+
 ## 🤝Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 * Fork the Project
-* Create your Feature Branch (git checkout -b feature/AmazingFeature)
-* Commit your Changes (git commit -m 'Add some AmazingFeature')
-* Push to the Branch (git push origin feature/AmazingFeature)
+* Create your Feature Branch
+* Commit your Changes
+* Push to the Branch
 * Open a Pull Request
 <br />
 
