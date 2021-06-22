@@ -8,8 +8,6 @@ Google Keep is a note-taking app, and some of the features I've replicated inclu
 <br /><br />
 It won't be stored as I've not used any backend yet. <br />
 I've developed only the front-end part of the website. So, once you refresh the notes will disappear.
-<br />
-Check out: google-keep-clone-site.netlify.app
 <br /> <br />
 
 ## 👩‍💻 This project aims to showcase some of Front-end development skills focusing on:
